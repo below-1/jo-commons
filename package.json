@@ -23,5 +23,6 @@
   "dependencies": {
     "@popperjs/core": "^2.4.2",
     "svelte-icons": "^2.1.0"
-  }
+  },
+  "version": "1.0.0"
 }
